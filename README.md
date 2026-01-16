@@ -1,7 +1,6 @@
 # Flutter Weather App
 
 A Flutter Application To Discover The Weather Using [WeatherAPI](https://www.weatherapi.com) 🚀
-
 The weather app is a design implementation of [Weather App](https://dribbble.com/shots/17423785-Weather-Interface) designed by v pooboni krishna 
 This project relied on this [Flutter Getx Template](https://github.com/EmadBeltaje/flutter_getx_template) 
 ## Demo of the application 🎥
